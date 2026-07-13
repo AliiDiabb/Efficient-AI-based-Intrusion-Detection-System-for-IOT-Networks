@@ -21,3 +21,9 @@
 - DNN_Model.py
 - Grid_search.md
 - Model_ML.py
+
+
+## Repository Structure
+
+- **main**: Includes this README and a ZIP archive of the project for quick download.
+- **master**: Contains the complete project source code with the original file and folder structure for development and version tracking.
