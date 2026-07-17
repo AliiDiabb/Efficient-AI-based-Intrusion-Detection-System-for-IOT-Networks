@@ -31,7 +31,7 @@
   
 ## 📄Citation
 
-If you use this code, please cite:
+If you use the HW-NAS code, please cite:
 
 ```bibtex
 @article{chehade2026hardware,
