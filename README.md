@@ -24,13 +24,6 @@
 - Grid_search.md
 - Model_ML.py
 
-
-## Repository Structure
-
-- **main**: Includes this README and a ZIP archive of the project for quick download.
-- **master**: Contains the complete project source code with the original file and folder structure for development and version tracking.
-
-
 ## 📄Citation
 
 If you use this code, please cite:
@@ -45,5 +38,11 @@ If you use this code, please cite:
 }
 
 ```
+**Official GitHub Repository:** [SEAlab-unige/ProtectIT\_Unige](https://github.com/SEAlab-unige/ProtectIT%5FUnige)
 
-Official GitHub Repository: SEAlab-unige/ProtectIT_Unige
+
+## Repository Structure
+
+- **main**: Includes this README and a ZIP archive of the project for quick download.
+- **master**: Contains the complete project source code with the original file and folder structure for development and version tracking.
+
