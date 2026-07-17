@@ -7,8 +7,7 @@
 - **ML & DL**
   - **CNN**
     - Weights and the results in CSV files
-  - **HW-NAS**
-    - Search space configurations and latency estimation logs
+      
   - **Machine_Learning_Models**
     - **Models_Results**
       - Results for 15, 6, and binary classes
@@ -24,6 +23,10 @@
 - Grid_search.md
 - Model_ML.py
 
+  **HW-NAS**
+    - Search space configurations and latency estimation logs
+    - **Official GitHub Repository:** [SEAlab-unige/ProtectIT\_Unige](https://github.com/SEAlab-unige/ProtectIT%5FUnige)
+      
 ## 📄Citation
 
 If you use this code, please cite:
@@ -38,7 +41,7 @@ If you use this code, please cite:
 }
 
 ```
-**Official GitHub Repository:** [SEAlab-unige/ProtectIT\_Unige](https://github.com/SEAlab-unige/ProtectIT%5FUnige)
+
 
 
 ## Repository Structure
