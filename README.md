@@ -31,7 +31,17 @@
   
 ## 📄Citation
 
-If you use the HW-NAS code, please cite:
+If you use this project or the HW-NAS code, please cite:
+```bibtex
+@inproceedings{diab2025intrusion,
+  title={Intrusion detection on resource-constrained {IoT} devices with hardware-aware {ML} and {DL}},
+  author={Diab, Ali and others},
+  booktitle={2025 {IEEE} International Conference on Emerging Trends in Engineering and Computing (ETECOM)},
+  year={2025},
+  organization={IEEE}
+}
+```
+
 
 ```bibtex
 @article{chehade2026hardware,
@@ -43,7 +53,6 @@ If you use the HW-NAS code, please cite:
 }
 
 ```
-
 
 
 ## Repository Structure
