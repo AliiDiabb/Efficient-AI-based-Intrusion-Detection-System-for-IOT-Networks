@@ -14,6 +14,11 @@
     - Best_hyperparameter.md
     - Constraints_hardware_(ML).py
 
+- **HW-NAS**
+  - Search space configurations and latency estimation logs
+  - **Official GitHub Repository:** [SEAlab-unige/ProtectIT\_Unige](https://github.com/SEAlab-unige/ProtectIT%5FUnige)
+      
+
 - **Preprocessed Dataset**
   - Features_extractions.md
   - Preprocessing_Edge-IIoTset.py
@@ -23,10 +28,7 @@
 - Grid_search.md
 - Model_ML.py
 
-  **HW-NAS**
-    - Search space configurations and latency estimation logs
-    - **Official GitHub Repository:** [SEAlab-unige/ProtectIT\_Unige](https://github.com/SEAlab-unige/ProtectIT%5FUnige)
-      
+  
 ## 📄Citation
 
 If you use this code, please cite:
