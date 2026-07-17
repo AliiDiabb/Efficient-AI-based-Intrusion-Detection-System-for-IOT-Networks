@@ -1,4 +1,4 @@
-# Project Structure
+# 📁 Project Structure
 
 - **deployment**
   - Weights of models
